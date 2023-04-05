@@ -21,11 +21,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0cb1616-30c1-49c2-8f4f-41017232f650" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AVL.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AVL.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-    </list>
+    <list default="true" id="d0cb1616-30c1-49c2-8f4f-41017232f650" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,26 +69,12 @@
       <recent name="C:\Users\swbro\OneDrive\Documents\GitHub\AVL-Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.scratch">
+  <component name="RunManager">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="scratch" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="avl_lab" TARGET_NAME="scratch" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="avl_lab" RUN_TARGET_NAME="scratch">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="avl_lab" TARGET_NAME="tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="avl_lab" RUN_TARGET_NAME="tests">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="CMake Application.scratch" />
-      <item itemvalue="CMake Application.tests" />
-    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -103,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680666019844</updated>
       <workItem from="1680666021148" duration="1642000" />
-      <workItem from="1680711097831" duration="2893000" />
+      <workItem from="1680711097831" duration="3187000" />
     </task>
     <servers />
   </component>
