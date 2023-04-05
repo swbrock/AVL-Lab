@@ -1,0 +1,8 @@
+# ninja log v5
+1	244	7024233209769413	build.ninja	8915fbed190c17aa
+1	515	7024233209769413	build.ninja	8915fbed190c17aa
+1	1107	7024234850958075	CMakeFiles/scratch.dir/scratch.cpp.obj	d1595cc8c0ba7147
+32	237	7024240365845076	CMakeFiles/scratch.dir/AVL.cpp.obj	2845ab3e593a6fb9
+6	1078	7024240374229418	CMakeFiles/scratch.dir/scratch.cpp.obj	d1595cc8c0ba7147
+23	152	7024241215486839	CMakeFiles/scratch.dir/AVL.cpp.obj	2845ab3e593a6fb9
+4	1204	7024241225968344	CMakeFiles/scratch.dir/scratch.cpp.obj	d1595cc8c0ba7147
